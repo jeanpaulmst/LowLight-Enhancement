@@ -65,3 +65,5 @@ La imagen oscura entra a DCE-Net (79k params) que estima 8 mapas de curvas de il
 - Zero-DCE-FT++ obtiene el mejor PSNR (18.03 dB).
 - RetinexNet + Denoise-Net obtiene el mejor SSIM (0.8124), lo que indica mayor similitud estructural percibida.
 - El modelo WGAN-GP requiere evaluación sobre test para ser comparable con los otros dos.
+
+---
