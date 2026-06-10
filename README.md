@@ -55,6 +55,6 @@ La imagen oscura entra a DCE-Net (79k params) que estima 8 mapas de curvas de il
 | Modelo | PSNR (dB) | SSIM |
 |---|---|---|
 | RetinexNet base (preentrenado) | 15.72 | 0.508 |
-| RetinexNet + WGAN-GP | 17.75 | 0.669 |
+| RetinexNet + WGAN-GP | 17.97 |0.7193|
 | RetinexNet + Denoise-Net e2e | 17.14 | 0.744 |
 | **Zero-DCE-FT++** | **18.03** | **0.733** |
