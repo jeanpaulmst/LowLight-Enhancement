@@ -58,7 +58,7 @@ La imagen oscura entra a DCE-Net (79k params) que estima 8 mapas de curvas de il
 |---|---|---|---|
 | RetinexNet base (preentrenado) | val | 15.72 | 0.508 |
 | RetinexNet + WGAN-GP | val | 17.75 | 0.6690 |
-| RetinexNet + Denoise-Net e2e | test | 16.93 | 0.8124 |
+| RetinexNet + Denoise-Net end-to-end | test | 16.93 | 0.8124 |
 | Zero-DCE-FT++ (con TTA) | test | 18.03 | 0.733 |
 
 **Notas sobre los resultados:**
